@@ -1,6 +1,6 @@
 [![](https://www.discotec.org/2022/discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
-# First Workshop on Collaborative Mining for Distributed Systems
+# First International Workshop on Collaborative Mining for Distributed Systems
 
 
 **COVID-19:** CoMinDs is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the 
